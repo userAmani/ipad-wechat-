@@ -1,10 +1,11 @@
-# ipad-wechat-api
-ipad协议源码 微信接口，支持linux、macos、windows 本地部署
+老板不理人，程序非常不稳定，时不时掉线，
 
-# 需要的联系wx：jianpancaozuoyuan
-日常维护，功能会更新，可测试
-## ipad协议是什么？
+走代理坚持不了12小时，老板总是以自己从没掉线为接口，不修bug
 
-ipad协议其实就是模拟ipad端微信的人工操作，跟微信服务器通信。协议的关键点主要是PB协议、mmtls、06加密算法、rqt算法、aes加密、rsa加密等，只要把这些点拿下，就可以模拟官方微信的所有功能了，还可以模拟android、pc、mac端的登录。协议确实不断在更新，像最新的rqt算法就是8.0以后的版本加上的。
+需要稳定性的兄弟们，考虑清楚了再卖
 
-![e89dcccad27ad18d3ff462e170481a31](https://github.com/userAmani/ipad-wechat-/assets/29222146/68171d64-0fda-459e-8233-5269cf0709f1)
+我只是实事求是，老板直接把issue功能删了，大家千万注意啊！
+
+<img width="393" alt="image" src="https://github.com/xiaoyue2019/ipad-wechat-/assets/42673461/269790d2-fb6f-4fc0-8df6-c107cf7a1ee9">
+
+<img width="406" alt="image" src="https://github.com/xiaoyue2019/ipad-wechat-/assets/42673461/99b6c9ab-e260-4d22-9f25-74a85f3a3f18">
